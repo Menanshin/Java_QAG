@@ -190,7 +190,7 @@ public class Snippets {
 
     void javascript_examples() {
         executeJavaScript("alert('selenide')"); // запускает любую команду JS
-        executeJavaScript("alert(arguments[0]+arguments[1])", "abc", 12);// считывание аругментов и запуск JS с этими аргументами
+        executeJavaScript("alert(arguments[0]+arguments[1])", "abc", 12);// считывание аругментов,  запуск JS с этими аргументами
         long fortytwo = executeJavaScript("return arguments[0]*arguments[1];", 6, 7);
 
     }
