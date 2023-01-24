@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-public class HM_QAG_2 {
+
+public class HW_QAG_2 {
 
     @Test
     void newTest() {
