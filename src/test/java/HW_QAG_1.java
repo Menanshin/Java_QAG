@@ -1,13 +1,11 @@
 import com.codeborne.selenide.Configuration;
-import com.codeborne.selenide.selector.ByText;
 import org.junit.jupiter.api.Test;
+
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
-import static com.codeborne.selenide.Selectors.*;
-import static com.codeborne.selenide.Condition.*;
 
 
-public class HM_QAG_1 {
+public class HW_QAG_1 {
     @Test
     void jUnit5Search() {
         Configuration.holdBrowserOpen = true;

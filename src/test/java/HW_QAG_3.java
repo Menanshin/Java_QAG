@@ -1,10 +1,11 @@
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Test;
+
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.Selectors.*;
 
-public class HM_QAG_3 {
+public class HW_QAG_3 {
     @Test
     void checkGitHubPage() {
         Configuration.holdBrowserOpen = true;
