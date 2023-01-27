@@ -1,3 +1,5 @@
+package lecture;
+
 import com.codeborne.selenide.*;
 import org.openqa.selenium.*;
 

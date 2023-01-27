@@ -1,3 +1,5 @@
+package lecture;
+
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.text;
@@ -18,6 +20,7 @@ public class SelenidRepositoriyTest {
         // проверка: заголовок selenide/selenide
         $("#repository-container-header").shouldHave(text("selenide / selenide"));
     }
+
     @Test
     void solntsevShouldBeTheTopContributor() {
         // открыть страницу репозитория селенида
