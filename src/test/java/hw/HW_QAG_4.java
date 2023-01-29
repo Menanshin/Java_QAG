@@ -26,7 +26,7 @@ public class HW_QAG_4 {
         String birthMonth = "August";
         String birthYear = "1988";
         String birthDay = "8";
-        String mobileNumber = "89001234567";
+        String mobileNumber = "8900123456";
         String subjects = "English";
         String Address = "Russian,Moscow";
         String hobbies = "Sports";
