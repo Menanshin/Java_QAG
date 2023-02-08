@@ -49,7 +49,6 @@ public class HW_QAG_6 extends TestConfig {
                 .setUserCity(cityValue)
                 .pressSubmit();
 
-        //проверки
         registrationPage.verifyModalAppers()
                 .verifyResult(keyName, firstName + " " + lastName)
                 .verifyResult(keyEmail, email)
