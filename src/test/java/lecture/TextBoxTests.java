@@ -1,11 +1,11 @@
 package lecture;
 
+import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.text;
-import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
@@ -13,26 +13,26 @@ public class TextBoxTests {
 
     @BeforeAll
     static void beforeAll() {
+        Configuration.holdBrowserOpen = true;
         Configuration.browserSize = "1920x1080";
         Configuration.baseUrl = "https://demoqa.com";
     }
 
     @Test
     void fillFormTest() {
-        String userName = "Alex Egorov";
-        String email = "qaguru@qa.gu";
+        String userName = "Egor";
 
         open("/text-box");
-        $(".main-header").shouldHave(text("Text Box"));
 
         $("#userName").setValue(userName);
-        $("#userEmail").setValue("qaguru@qa.gu");
+        $("#userEmail").setValue("Egor@egor.com");
         $("#currentAddress").setValue("Some address 1");
         $("#permanentAddress").setValue("Other address 1");
         $("#submit").click();
 
-        $("#output").shouldBe(visible);
-        $("#output").$("#name").shouldHave((text(userName)));
-        $("#output #email").shouldHave((text(email)));
+        $("#output").shouldBe(Condition.visible);
+        $("#output #name").shouldHave(text(userName));
+        $("#output #email").shouldHave(text("Egor@egor.com"));
+        // todo check addresses
     }
 }
