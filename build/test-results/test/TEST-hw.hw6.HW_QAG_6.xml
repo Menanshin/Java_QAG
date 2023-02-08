@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hw.hw6.HW_QAG_6" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-08T15:31:34" hostname="e-maslov" time="16.273">
+  <properties/>
+  <testcase name="testForm()" classname="hw.hw6.HW_QAG_6" time="16.273"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 19 - let's create a new webdriver
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: /Users/e.maslov/IdeaProjects/Java_QA/build/downloads/1675870294743_39319_19
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 109.0.5414.74 (resolved driver for Chrome 109)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/e.maslov/.cache/selenium/chromedriver/mac64/109.0.5414.74/chromedriver
+[Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 33879
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
+[Test worker] INFO com.codeborne.selenide.webdriver.SelenideNettyClientFactory - Changed readTimeout from PT3M to PT1M30S
+фев 08, 2023 4:31:36 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 109, so returning the closest version found: 108
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=109.0.5414.119 Platform=MAC
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 6.10.3
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 4.7.2 build revision: 4d4020c3b7
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 19: ChromeDriver -> ChromeDriver: chrome on MAC (c1b5617b58c6b0cc22274a3083cb4f0f)
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Register WebDriverInstance[config=StaticConfig,webDriver=ChromeDriver: chrome on MAC (c1b5617b58c6b0cc22274a3083cb4f0f),proxy=null,downloadsFolder=/Users/e.maslov/IdeaProjects/Java_QA/build/downloads/1675870294743_39319_19] in 19 [size=1]
+[Test worker] INFO com.codeborne.selenide.drivercommands.DisposablesRegistry - Add shutdown hook in 19 [size=1]
+[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - Browser and proxy will stay open due to holdBrowserOpen=true: 19 -> ChromeDriver: chrome on MAC (c1b5617b58c6b0cc22274a3083cb4f0f), null
+]]></system-err>
+</testsuite>

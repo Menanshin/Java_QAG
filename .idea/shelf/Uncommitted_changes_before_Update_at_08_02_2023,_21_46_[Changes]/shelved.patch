@@ -1,0 +1,244 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"0d8b264f-46f7-47a8-af50-08a4125ddfde\" name=\"Changes\" comment=\"add Home work part 2\">\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/hw/HW_QAG_4.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/lecture/CssXpathExamples.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/lecture/FirstJUnitTest.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/lecture/TextBoxTests.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/test/resources/test_qa.jpeg\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.gradle/checksums/checksums.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.gradle/checksums/checksums.lock\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/.gitignore\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build.gradle\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build.gradle\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/test/LoginTests.class\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/test/SearchTests.class\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/test/SelenidRepositoriyTest.class\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/classes/java/test/Snippets.class\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/classes/HM_QAG_1.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/reports/tests/test/index.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/TEST-HM_QAG_1.xml\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/binary/output.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/test-results/test/binary/output.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/test-results/test/binary/results.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/test-results/test/binary/results.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/HW_QAG_1.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/hw/HW_QAG_1.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/HW_QAG_2.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/hw/HW_QAG_2.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/HW_QAG_3.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/hw/HW_QAG_3.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/HW_QAG_3_1.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/hw/HW_QAG_3_1.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/Learn.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/lecture/Learn.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/LoginTests.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/lecture/LoginTests.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/SearchTests.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/lecture/SearchTests.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/SelenidRepositoriyTest.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/lecture/SelenidRepositoriyTest.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/test/java/Snippets.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/test/java/lecture/Snippets.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"CodeStyleSettingsInfer\">\n    <option name=\"done\" value=\"true\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <task path=\"$PROJECT_DIR$\">\n          <activation />\n        </task>\n        <projects_view>\n          <tree_state>\n            <expand />\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"HM_QA_3\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitSEFilterConfiguration\">\n    <file-type-list>\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\n      <filtered-out-file-type name=\"TAG\" />\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\n    </file-type-list>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectCodeStyleSettingsMigration\">\n    <option name=\"version\" value=\"2\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2KSgtX0ivxgfqvTU7KhU5jludta\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/src/test/resources\" />\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"settings.space\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/test/resources\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/test/java/Lecture\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Gradle.HW_QAG_4 (1)\">\n    <configuration name=\"HW_QAG_3_1\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":test\" />\n            <option value=\"--tests\" />\n            <option value=\"&quot;HW_QAG.HW_QAG_3_1&quot;\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\n      <DebugAllEnabled>false</DebugAllEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"HW_QAG_4 (1)\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":test\" />\n            <option value=\"--tests\" />\n            <option value=\"&quot;hw.HW_QAG_4&quot;\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\n      <DebugAllEnabled>false</DebugAllEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"HW_QAG_4\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":test\" />\n            <option value=\"--tests\" />\n            <option value=\"&quot;HW_QAG.HW_QAG_4&quot;\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\n      <DebugAllEnabled>false</DebugAllEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"HW_QAG_4.testForm (1)\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":test\" />\n            <option value=\"--tests\" />\n            <option value=\"&quot;hw.HW_QAG_4.testForm&quot;\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\n      <DebugAllEnabled>false</DebugAllEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"HW_QAG_4.testForm\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" value=\"\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\":test\" />\n            <option value=\"--tests\" />\n            <option value=\"&quot;HW_QAG.HW_QAG_4.testForm&quot;\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\n      <DebugAllEnabled>false</DebugAllEnabled>\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Gradle.HW_QAG_4 (1)\" />\n        <item itemvalue=\"Gradle.HW_QAG_4.testForm (1)\" />\n        <item itemvalue=\"Gradle.HW_QAG_3_1\" />\n        <item itemvalue=\"Gradle.HW_QAG_4\" />\n        <item itemvalue=\"Gradle.HW_QAG_4.testForm\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"0d8b264f-46f7-47a8-af50-08a4125ddfde\" name=\"Changes\" comment=\"\" />\n      <created>1673973612480</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1673973612480</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"add class\">\n      <created>1673975763043</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673975763043</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"add HM_QAG_1\">\n      <created>1673976579746</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673976579746</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"change int  i=4\">\n      <created>1674420572235</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1674420572235</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"change int  i=7\">\n      <created>1674421534309</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1674421534309</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"change int  i=9\">\n      <created>1674421794994</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1674421794994</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"add Home work part 1\">\n      <created>1674574535123</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1674574535123</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"add Home work part 2\">\n      <created>1674590160646</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1674590160646</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"8\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"add class\" />\n    <MESSAGE value=\"add HM_QAG_1\" />\n    <MESSAGE value=\"change int  i=4\" />\n    <MESSAGE value=\"change int  i=7\" />\n    <MESSAGE value=\"change int  i=9\" />\n    <MESSAGE value=\"add Home work part 1\" />\n    <MESSAGE value=\"add Home work part 2\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add Home work part 2\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,21 +5,14 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="0d8b264f-46f7-47a8-af50-08a4125ddfde" name="Changes" comment="add Home work part 2">
+-      <change afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_4.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture/CssXpathExamples.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture/FirstJUnitTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/lecture/TextBoxTests.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/resources/test_qa.jpeg" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/build/classes/java/test/LoginTests.class" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/build/classes/java/test/SearchTests.class" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/build/classes/java/test/SelenidRepositoriyTest.class" beforeDir="false" />
+@@ -32,15 +25,6 @@
+       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_1.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_2.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_3.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_3_1.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/Learn.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/LoginTests.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/SearchTests.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/SelenidRepositoriyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/SelenidRepositoriyTest.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/test/java/Snippets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/Snippets.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -63,7 +47,12 @@
+         </task>
+         <projects_view>
+           <tree_state>
+-            <expand />
++            <expand>
++              <path>
++                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
++                <item name="Java_QA" type="f1a62948:ProjectNode" />
++              </path>
++            </expand>
+             <select />
+           </tree_state>
+         </projects_view>
+@@ -120,11 +109,12 @@
+       <recent name="$PROJECT_DIR$/src/test/resources" />
+     </key>
+     <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/src/test/java/hw/hw5" />
+       <recent name="$PROJECT_DIR$/src/test/java/Lecture" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Gradle.HW_QAG_4 (1)">
+-    <configuration name="HW_QAG_3_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++  <component name="RunManager" selected="Gradle.HM_QAG_1">
++    <configuration name="HM_QAG_1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+@@ -137,7 +127,7 @@
+           <list>
+             <option value=":test" />
+             <option value="--tests" />
+-            <option value="&quot;HW_QAG.HW_QAG_3_1&quot;" />
++            <option value="&quot;HM_QAG_1&quot;" />
+           </list>
+         </option>
+         <option name="vmOptions" />
+@@ -170,7 +160,7 @@
+       <DebugAllEnabled>false</DebugAllEnabled>
+       <method v="2" />
+     </configuration>
+-    <configuration name="HW_QAG_4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++    <configuration name="HW_QAG_4.testForm (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+@@ -183,7 +173,7 @@
+           <list>
+             <option value=":test" />
+             <option value="--tests" />
+-            <option value="&quot;HW_QAG.HW_QAG_4&quot;" />
++            <option value="&quot;hw.HW_QAG_4.testForm&quot;" />
+           </list>
+         </option>
+         <option name="vmOptions" />
+@@ -193,7 +183,7 @@
+       <DebugAllEnabled>false</DebugAllEnabled>
+       <method v="2" />
+     </configuration>
+-    <configuration name="HW_QAG_4.testForm (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++    <configuration name="HW_QAG_6" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+@@ -206,7 +196,7 @@
+           <list>
+             <option value=":test" />
+             <option value="--tests" />
+-            <option value="&quot;hw.HW_QAG_4.testForm&quot;" />
++            <option value="&quot;hw.hw6.HW_QAG_6&quot;" />
+           </list>
+         </option>
+         <option name="vmOptions" />
+@@ -216,7 +206,7 @@
+       <DebugAllEnabled>false</DebugAllEnabled>
+       <method v="2" />
+     </configuration>
+-    <configuration name="HW_QAG_4.testForm" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
++    <configuration name="HW_QAG_6.testForm" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+@@ -229,7 +219,7 @@
+           <list>
+             <option value=":test" />
+             <option value="--tests" />
+-            <option value="&quot;HW_QAG.HW_QAG_4.testForm&quot;" />
++            <option value="&quot;hw.hw6.HW_QAG_6.testForm&quot;" />
+           </list>
+         </option>
+         <option name="vmOptions" />
+@@ -241,11 +231,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Gradle.HM_QAG_1" />
++        <item itemvalue="Gradle.HW_QAG_6.testForm" />
++        <item itemvalue="Gradle.HW_QAG_6" />
+         <item itemvalue="Gradle.HW_QAG_4 (1)" />
+         <item itemvalue="Gradle.HW_QAG_4.testForm (1)" />
+-        <item itemvalue="Gradle.HW_QAG_3_1" />
+-        <item itemvalue="Gradle.HW_QAG_4" />
+-        <item itemvalue="Gradle.HW_QAG_4.testForm" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -307,7 +297,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1674590160646</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="add Home work">
++      <created>1675870389173</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1675870389173</updated>
++    </task>
++    <task id="LOCAL-00009" summary="del coment">
++      <created>1675881725791</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1675881725791</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -318,7 +322,9 @@
+     <MESSAGE value="change int  i=9" />
+     <MESSAGE value="add Home work part 1" />
+     <MESSAGE value="add Home work part 2" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add Home work part 2" />
++    <MESSAGE value="add Home work" />
++    <MESSAGE value="del coment" />
++    <option name="LAST_COMMIT_MESSAGE" value="del coment" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
+Index: build/reports/tests/test/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\n<meta http-equiv=\"x-ua-compatible\" content=\"IE=edge\"/>\n<title>Test results - Test Summary</title>\n<link href=\"css/base-style.css\" rel=\"stylesheet\" type=\"text/css\"/>\n<link href=\"css/style.css\" rel=\"stylesheet\" type=\"text/css\"/>\n<script src=\"js/report.js\" type=\"text/javascript\"></script>\n</head>\n<body>\n<div id=\"content\">\n<h1>Test Summary</h1>\n<div id=\"summary\">\n<table>\n<tr>\n<td>\n<div class=\"summaryGroup\">\n<table>\n<tr>\n<td>\n<div class=\"infoBox\" id=\"tests\">\n<div class=\"counter\">1</div>\n<p>tests</p>\n</div>\n</td>\n<td>\n<div class=\"infoBox\" id=\"failures\">\n<div class=\"counter\">0</div>\n<p>failures</p>\n</div>\n</td>\n<td>\n<div class=\"infoBox\" id=\"ignored\">\n<div class=\"counter\">0</div>\n<p>ignored</p>\n</div>\n</td>\n<td>\n<div class=\"infoBox\" id=\"duration\">\n<div class=\"counter\">15.833s</div>\n<p>duration</p>\n</div>\n</td>\n</tr>\n</table>\n</div>\n</td>\n<td>\n<div class=\"infoBox success\" id=\"successRate\">\n<div class=\"percent\">100%</div>\n<p>successful</p>\n</div>\n</td>\n</tr>\n</table>\n</div>\n<div id=\"tabs\">\n<ul class=\"tabLinks\">\n<li>\n<a href=\"#tab0\">Packages</a>\n</li>\n<li>\n<a href=\"#tab1\">Classes</a>\n</li>\n</ul>\n<div id=\"tab0\" class=\"tab\">\n<h2>Packages</h2>\n<table>\n<thead>\n<tr>\n<th>Package</th>\n<th>Tests</th>\n<th>Failures</th>\n<th>Ignored</th>\n<th>Duration</th>\n<th>Success rate</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"success\">\n<a href=\"packages/default-package.html\">default-package</a>\n</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>15.833s</td>\n<td class=\"success\">100%</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div id=\"tab1\" class=\"tab\">\n<h2>Classes</h2>\n<table>\n<thead>\n<tr>\n<th>Class</th>\n<th>Tests</th>\n<th>Failures</th>\n<th>Ignored</th>\n<th>Duration</th>\n<th>Success rate</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"success\">\n<a href=\"classes/HM_QAG_1.html\">HM_QAG_1</a>\n</td>\n<td>1</td>\n<td>0</td>\n<td>0</td>\n<td>15.833s</td>\n<td class=\"success\">100%</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div id=\"footer\">\n<p>\n<div>\n<label class=\"hidden\" id=\"label-for-line-wrapping-toggle\" for=\"line-wrapping-toggle\">Wrap lines\n<input id=\"line-wrapping-toggle\" type=\"checkbox\" autocomplete=\"off\"/>\n</label>\n</div>Generated by \n<a href=\"http://www.gradle.org\">Gradle 7.1</a> at 17.01.2023 19:58:13</p>\n</div>\n</div>\n</body>\n</html>\n
+===================================================================
+diff --git a/build/reports/tests/test/index.html b/build/reports/tests/test/index.html
+--- a/build/reports/tests/test/index.html	
++++ b/build/reports/tests/test/index.html	
+@@ -38,7 +38,7 @@
+ </td>
+ <td>
+ <div class="infoBox" id="duration">
+-<div class="counter">15.833s</div>
++<div class="counter">16.273s</div>
+ <p>duration</p>
+ </div>
+ </td>
+@@ -80,12 +80,12 @@
+ <tbody>
+ <tr>
+ <td class="success">
+-<a href="packages/default-package.html">default-package</a>
++<a href="packages/hw.hw6.html">hw.hw6</a>
+ </td>
+ <td>1</td>
+ <td>0</td>
+ <td>0</td>
+-<td>15.833s</td>
++<td>16.273s</td>
+ <td class="success">100%</td>
+ </tr>
+ </tbody>
+@@ -107,12 +107,12 @@
+ <tbody>
+ <tr>
+ <td class="success">
+-<a href="classes/HM_QAG_1.html">HM_QAG_1</a>
++<a href="classes/hw.hw6.HW_QAG_6.html">hw.hw6.HW_QAG_6</a>
+ </td>
+ <td>1</td>
+ <td>0</td>
+ <td>0</td>
+-<td>15.833s</td>
++<td>16.273s</td>
+ <td class="success">100%</td>
+ </tr>
+ </tbody>
+@@ -126,7 +126,7 @@
+ <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+ </label>
+ </div>Generated by 
+-<a href="http://www.gradle.org">Gradle 7.1</a> at 17.01.2023 19:58:13</p>
++<a href="http://www.gradle.org">Gradle 7.1</a> at 08.02.2023 16:31:51</p>
+ </div>
+ </div>
+ </body>
