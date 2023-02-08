@@ -1,4 +1,4 @@
-package hw;
+package hw.hw4;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.BeforeAll;
@@ -19,6 +19,7 @@ public class HW_QAG_4 {
 
     @Test
     void testForm() {
+        //вводимые значения
         String firstName = "Evgeniy";
         String lastName = "Maslov";
         String email = "qaguru@qa.gu";
@@ -26,7 +27,7 @@ public class HW_QAG_4 {
         String birthMonth = "August";
         String birthYear = "1988";
         String birthDay = "8";
-        String mobileNumber = "89001234567";
+        String mobileNumber = "8900123456";
         String subjects = "English";
         String Address = "Russian,Moscow";
         String hobbies = "Sports";
@@ -60,8 +61,8 @@ public class HW_QAG_4 {
         $("#stateCity-wrapper").$(byText(city)).click();
         $("#city").click();
         $("#submit").pressEnter();
-        //проверки
 
+        //проверки
         $("#example-modal-sizes-title-lg").shouldHave(text("Thanks for submitting the form"));
         $(".table-responsive").
                 shouldHave(text(firstName),
