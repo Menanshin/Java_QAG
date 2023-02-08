@@ -4,9 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d8b264f-46f7-47a8-af50-08a4125ddfde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/hw/hw4/HW_QAG_4.java" afterDir="false" />
+    <list default="true" id="0d8b264f-46f7-47a8-af50-08a4125ddfde" name="Changes" comment="add Home work part 2">
+      <change afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture/CssXpathExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture/FirstJUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/lecture/TextBoxTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test_qa.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/LoginTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SearchTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SelenidRepositoriyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Snippets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/HM_QAG_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-HM_QAG_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HW_QAG_3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw/HW_QAG_3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Learn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/Learn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/SearchTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SelenidRepositoriyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/SelenidRepositoriyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Snippets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lecture/Snippets.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +93,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/build.gradle" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -69,9 +100,6 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2KSgtX0ivxgfqvTU7KhU5jludta" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -279,21 +307,7 @@
       <option name="project" value="LOCAL" />
       <updated>1674590160646</updated>
     </task>
-    <task id="LOCAL-00008" summary="add Home work part 2">
-      <created>1675882239066</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1675882239066</updated>
-    </task>
-    <task id="LOCAL-00009" summary="del hw 4">
-      <created>1675882401300</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1675882401300</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,8 +318,7 @@
     <MESSAGE value="change int  i=9" />
     <MESSAGE value="add Home work part 1" />
     <MESSAGE value="add Home work part 2" />
-    <MESSAGE value="del hw 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="del hw 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Home work part 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
